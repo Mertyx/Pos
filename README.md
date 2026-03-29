@@ -1,6 +1,6 @@
 # Pos
 
-#Projekt LAN - Matej Strnad
+# Projekt LAN - Matej Strnad
 
 ## Výpočet parametrů
 - **Příjmení (Strnad):** 83+116+114+110+97+100 = 620. X = 620 mod 256 = **108**
